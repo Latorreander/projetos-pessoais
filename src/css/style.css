@@ -17,14 +17,14 @@ img {
   border-radius: 25px;
 }
 
-h1 {
+.texto-principal {
   font-family: outfit;
   font-size: 20px;
   font-weight: 700;
   margin-top: 10px;
 }
 
-p {
+.texto-secundário {
   font-family: outfit;
   font-size: 15px;
   font-weight: 400;
